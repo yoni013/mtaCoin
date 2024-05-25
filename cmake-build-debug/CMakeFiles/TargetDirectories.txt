@@ -1,0 +1,3 @@
+/Users/yonatan/Desktop/yoni_private/mtaCoin-1/cmake-build-debug/CMakeFiles/mtaCoin.dir
+/Users/yonatan/Desktop/yoni_private/mtaCoin-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yonatan/Desktop/yoni_private/mtaCoin-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
